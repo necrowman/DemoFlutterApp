@@ -1,4 +1,4 @@
-#Mon Jun 22 01:35:21 EEST 2020
+#Sun Jun 28 15:47:29 EEST 2020
 base.0=/Users/necrowman/Projects/Flutter/todo_tasks_necrowman/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
